@@ -1,0 +1,9 @@
+com.gameloft.android.GloftSMIF
+com.gameloft.android.GloftANPH
+com.gameloft.android.GloftDBMF
+com.opera.browser
+com.lenovo.phone.widget
+com.infohub.monster
+com.truecaller
+com.yandex.browser
+ru.yandex.searchplugin
